@@ -1,0 +1,109 @@
+---
+import Layout from '../layouts/Layout.astro';
+import PostCard from '../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths({ paginate }) {
+  const allContent = await getCollection('blog');
+  const posts = allContent
+    .filter(entry => entry.data.type === 'post')
+    .sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf());
+  
+  return paginate(posts, { pageSize: 10 });
+}
+
+const { page } = Astro.props;
+---
+
+<Layout title="Home">
+  <div class="px-6 py-12 max-w-5xl mx-auto">
+    <!-- Welcome Section (Only show on first page) -->
+    {page.currentPage === 1 && (
+      <div class="text-center mb-16 max-w-3xl mx-auto">
+        <h1 class="text-4xl md:text-5xl font-bold text-slate-800 mb-6 font-serif">Welcome to the Young Authors!</h1>
+        <p class="text-lg text-slate-600">
+          Check out our Roadmap for 2026-2027: <a href="/news" class="text-primary hover:text-primary/80 underline decoration-2 underline-offset-4 transition-colors font-medium">Click Here</a>
+        </p>
+      </div>
+    )}
+
+    <!-- Feed Grid -->
+    <div id="posts-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      {page.data.map(post => (
+        <PostCard 
+          title={post.data.title}
+          url={`/${post.id}`}
+          date={post.data.date}
+          author={post.data.author}
+          coverImage={post.data.cover_image}
+        />
+      ))}
+    </div>
+
+    <!-- Infinite Scroll Sentinel -->
+    {page.url.next && (
+      <div id="sentinel" data-next-url={page.url.next} class="flex justify-center mt-12 py-8">
+        <div class="animate-spin rounded-full h-8 w-8 border-b-2 border-primary"></div>
+      </div>
+    )}
+  </div>
+</Layout>
+
+<script>
+  // Vanilla JS Infinite Scroll using IntersectionObserver
+  document.addEventListener('DOMContentLoaded', () => {
+    let sentinel = document.getElementById('sentinel');
+    const postsGrid = document.getElementById('posts-grid');
+    
+    if (!sentinel || !postsGrid) return;
+    
+    let isFetching = false;
+    
+    const observer = new IntersectionObserver(async (entries) => {
+      const entry = entries[0];
+      if (entry.isIntersecting && !isFetching) {
+        const nextUrl = sentinel.getAttribute('data-next-url');
+        if (!nextUrl) {
+          sentinel.remove();
+          observer.disconnect();
+          return;
+        }
+        
+        isFetching = true;
+        
+        try {
+          const response = await fetch(nextUrl);
+          const htmlText = await response.text();
+          
+          // Parse the fetched HTML
+          const parser = new DOMParser();
+          const doc = parser.parseFromString(htmlText, 'text/html');
+          
+          // Extract new posts
+          const newPosts = doc.querySelectorAll('#posts-grid > article');
+          newPosts.forEach(post => {
+            postsGrid.appendChild(post);
+          });
+          
+          // Check for next URL on the fetched page
+          const newSentinel = doc.getElementById('sentinel');
+          if (newSentinel && newSentinel.hasAttribute('data-next-url')) {
+            sentinel.setAttribute('data-next-url', newSentinel.getAttribute('data-next-url'));
+          } else {
+            // No more pages
+            sentinel.remove();
+            observer.disconnect();
+          }
+        } catch (err) {
+          console.error('Error fetching next page:', err);
+        } finally {
+          isFetching = false;
+        }
+      }
+    }, {
+      rootMargin: '200px' // Start fetching before reaching the absolute bottom
+    });
+    
+    observer.observe(sentinel);
+  });
+</script>
