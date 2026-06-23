@@ -1,0 +1,17 @@
+---
+title: "Fall into me, please fall into me"
+date: "2015-11-10 13:32:23"
+author: "Marc Auf der Heyde"
+cover_image: "/images/2015/11/Fall-into-me-please-fall-into-me.jpg"
+type: "post"
+---
+<p class="font_8">There are some things that people, humans, us homo sapiens, simply cannot explain, or give explanation to, no matter what logic or sense may support our reasoning. There is no explanation for some things, like why some socks get lost in the washing, or why there are people on this fine green earth who find pleasure in hurting others. All that kind of stuff, scary shit that we try to avoid.</p>
+<p class="font_8">There is no science, there is no evidence. And that’s why it scares us, it is human nature to want to understand everything, to give a label, to everything. And when we can’t, we freak out, we realize that some things are meant to stay hidden from our sight, some things are supposed to remain unexplored and un tampered with. Some things should stay in their Pandora’s box and hope to god that they never escape.</p>
+<p class="font_8">But then they do escape, just sometimes but when they escape then everything come crashing down. Like love, the greatest mystery since life even came to be. We can’t explain it, we don’t know why we’re supposed to feel it, we only know that love is something inevitable that anyone can feel and not feel, it is something that surrounds us whether we like it or not. It is something that gnaws at the core of our soul, it is something that simulates the instinct of survival, the need to reproduce, the thrive of bringing life into the world. Yeah, that’s true, that’s all good and dandy but what does it mean to fall in love with somebody? Not to love somebody, but to actually fall in love with them? And don’t tell me there isn’t a difference, don’t tell me that you’re in love with your mother and you’re in love with your father. Because you’re not, trust me. That would be weird, you don’t want to be in love with your parents.</p>
+<p class="font_8">When you love someone, you love them, you feel very strongly about them and you’d probably do a lot for them. I love my mother and I love my father. But, just as well I also love my rabbit and my friends. Well, my rabbit is my friend but that’s not the point. When you’re in love with somebody, all other feelings you have become unimportant, all other responsibilities you have, disappear in the blink of an eye. That person, is the only person, that person is whom you have fallen into. You have become them and your world slowly starts to whither, colors seem darker as they seem brighter, shapes seem to be part of a higher dimension and all your thoughts are directed to that one person. You feel love as a source of energy, you feel true love, only for that person.</p>
+<p class="font_8"></p>
+<p class="font_8">She is real. She has always been real. And yes, yes you’re right, I’m still in love with her.</p>
+<p class="font_8"></p>
+<p class="font_8"><em>By Paul Gracey, 17, Westerford High School, Cape Town, South Africa</em></p>
+<p class="font_8"></p>
+<p class="font_8"><a href="/images/2015/11/Fall-into-me-please-fall-into-me.jpg"><img class="alignnone size-full wp-image-165" src="/images/2015/11/Fall-into-me-please-fall-into-me.jpg" alt="Fall into me, please fall into me" width="939" height="512" /></a></p>
