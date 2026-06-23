@@ -84,4 +84,3 @@ type: "post"
 <p class="font_8"></p>
 <p class="font_8"><em>by Paul Gracey, 17, Westerford High School, Cape Town, South Africa</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Feel-once-cut-twice.jpg"><img class="alignnone size-full wp-image-171" src="/images/2015/11/Feel-once-cut-twice.jpg" alt="Feel once, cut twice" width="758" height="504" /></a></p>

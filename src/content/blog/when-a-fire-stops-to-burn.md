@@ -36,7 +36,3 @@ Plenty of time to send me your smile.
 &nbsp;
 
 <em>by anonymous</em>
-
-&nbsp;
-
-<img class="alignnone size-full wp-image-747" src="/images/2016/04/Large_bonfire.jpg" alt="Large_bonfire" width="800" height="533" />

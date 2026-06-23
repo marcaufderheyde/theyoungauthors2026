@@ -19,4 +19,3 @@ Then suddenly, I feel nothing.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>by Alice Crown, 16, Seoul American High School, South Korea</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Burning-Bridges.jpg"><img class="alignnone size-full wp-image-309" src="/images/2015/11/Burning-Bridges.jpg" alt="Burning Bridges" width="939" height="469" /></a></p>

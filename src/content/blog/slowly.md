@@ -20,4 +20,3 @@ And Myself</p>
 <p class="font_8"></p>
 <p class="font_8"><em>Alexis Potebnya, 15, lakewood high, USA</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Slowly.jpg"><img class="alignnone size-full wp-image-131" src="/images/2015/11/Slowly.jpg" alt="Slowly" width="939" height="626" /></a></p>

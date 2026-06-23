@@ -36,5 +36,5 @@ This land is our land</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1377} -->
-<figure class="wp-block-image"><img src="/images/2018/12/south-africa-653005_1280.png" alt="" class="wp-image-1377"/></figure>
+
 <!-- /wp:image -->

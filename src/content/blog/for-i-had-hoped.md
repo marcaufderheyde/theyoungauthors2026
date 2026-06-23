@@ -29,4 +29,3 @@ for us to fall at the same time
 So I can once more, be his desperate Lolita</p>
 <p class="font_8"></p>
 <p class="font_8"><em>by Jacqueline Lucas, 17, John F. Kennedy School, Berlin Germany</em></p>
-<p class="font_8"><a href="/images/2015/11/For-I-had-hoped.jpg"><img class="alignnone  wp-image-113" src="/images/2015/11/For-I-had-hoped.jpg" alt="For I had hoped" width="364" height="227" /></a></p>

@@ -30,4 +30,3 @@ Until sunday afternoon the game is reversed</p>
 <p class="font_8"></p>
 <p class="font_8"><em>By Max Görlich, 16, John F. Kennedy School, Berlin, Germany</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Between-Doors.jpg"><img class="alignnone size-full wp-image-355" src="/images/2015/11/Between-Doors.jpg" alt="Between Doors" width="939" height="625" /></a></p>

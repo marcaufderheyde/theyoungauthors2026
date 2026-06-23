@@ -14,4 +14,3 @@ type: "post"
 <p class="font_9"></p>
 <p class="font_9"><em>By Sam Wasserman, 17, Berlin British School, Berlin, Germany</em></p>
 <p class="font_9"></p>
-<p class="font_9"><a href="/images/2015/11/New-Haircut.jpg"><img class="alignnone size-full wp-image-466" src="/images/2015/11/New-Haircut.jpg" alt="New Haircut" width="526" height="505" /></a></p>

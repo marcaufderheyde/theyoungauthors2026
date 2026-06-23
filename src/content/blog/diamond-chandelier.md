@@ -20,5 +20,3 @@ Oh Conscious stop calling! Leave your deprived message after the beep.
 Tomorrow morning I leave for the first day of senior year but
 
 Can't I just hang beautifully and tragically from a diamond chandelier?
-
-&nbsp;

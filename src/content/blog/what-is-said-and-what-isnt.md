@@ -30,4 +30,3 @@ The longing and yearning, twisting and turning but if I get you and you get me, 
 <p class="font_8"></p>
 <p class="font_8"><em>by Jack Allen, 18, Boherbue Comprehensive, Ireland</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/What-is-said-and-what-isnt..jpg"><img class="alignnone size-full wp-image-262" src="/images/2015/11/What-is-said-and-what-isnt..jpg" alt="What is said and what isn't." width="920" height="575" /></a></p>

@@ -32,6 +32,6 @@ days pass, people walk by, i'm still the same old me.</p>
 </div>
 </div>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Streets.jpg"><img class="alignnone size-full wp-image-514" src="/images/2015/11/Streets.jpg" alt="Streets" width="938" height="625" /></a></p>
+
 
 <div id="i6fl4rgs_1_SinglePostMediaTop_MediaPost__0_0__type_MediaPost" class=" flex_vbox" data-reactid=".0.$SITE_ROOT.$desktop_siteRoot.$PAGES_CONTAINER.1.1.$SITE_PAGES.$cxgi.1.$i6fl4rgs_1.0.0.$child.$0.1.$1.$7"></div>

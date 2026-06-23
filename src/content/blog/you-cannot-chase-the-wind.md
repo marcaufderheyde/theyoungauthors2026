@@ -24,5 +24,3 @@ My mind, but not my soul.
 &nbsp;
 
 <em>by anonymous</em>
-
-&nbsp;

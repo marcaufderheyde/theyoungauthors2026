@@ -26,5 +26,5 @@ type: "post"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1348,"width":685,"height":385} -->
-<figure class="wp-block-image is-resized"><img src="/images/2018/08/technoid-2877987_1920.jpg" alt="" class="wp-image-1348" width="685" height="385"/></figure>
+
 <!-- /wp:image -->

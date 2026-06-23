@@ -57,4 +57,3 @@ Don't tell beg</p>
 <p class="font_8"></p>
 <p class="font_8"><em>By Wesley Jade, 23, South Africa</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Keeper-of-Secrets.jpg"><img class="alignnone size-full wp-image-396" src="/images/2015/11/Keeper-of-Secrets.jpg" alt="Keeper of Secrets" width="938" height="626" /></a></p>

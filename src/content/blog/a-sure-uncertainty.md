@@ -27,7 +27,3 @@ Whether just her charm, her face, her lips,
 The few I see of her in shortish clips,
 I try my best just not to miss,
 Anything in these short moments, as I lean in for an overdue kiss.
-
-&nbsp;
-
-<img class="alignnone size-full wp-image-780" src="/images/2016/05/low_poly_landscape_by_4m4rok-d65us4i.jpg" alt="low_poly_landscape_by_4m4rok-d65us4i" width="1024" height="576" />

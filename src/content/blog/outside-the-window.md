@@ -30,4 +30,3 @@ you’ll be able to hear them.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>By Lilian Kelly, 16, John F. Kennedy School, Berlin, Germany</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Outside-The-Window.jpg"><img class="alignnone size-full wp-image-387" src="/images/2015/11/Outside-The-Window.jpg" alt="Outside The Window" width="948" height="593" /></a></p>

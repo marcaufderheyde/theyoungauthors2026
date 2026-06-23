@@ -35,4 +35,3 @@ victim to sun.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>by Luna Corbey, 16, NIghtingale- Bamford School, United States</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Envy-Green.jpeg"><img class="alignnone size-full wp-image-291" src="/images/2015/11/Envy-Green.jpeg" alt="Envy Green" width="939" height="625" /></a></p>

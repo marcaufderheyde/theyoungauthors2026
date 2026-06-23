@@ -26,4 +26,3 @@ type: "post"
 <p class="font_8"></p>
 <p class="font_8"><em>by Datin Waters, 14, Notre-Dame International High School, Paris, France</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Time-An-uncontrollable-fire.jpg"><img class="alignnone size-full wp-image-453" src="/images/2015/11/Time-An-uncontrollable-fire.jpg" alt="Time - An uncontrollable fire" width="939" height="939" /></a></p>

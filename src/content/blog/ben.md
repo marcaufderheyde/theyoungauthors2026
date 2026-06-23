@@ -32,5 +32,3 @@ type: "post"
 <span style="font-weight: 400">In the back of the medical unit Ben moaned and lolled in a stupor. He asked to go back to “his girls” multiple times. Broken record syndrome, pretty common after a chair to the face. The conversation did not progress much past his cyclical queries. By the time they got to the hospital the paramedics could barely hold back chuckles of laughter.  </span>
 
 <span style="font-weight: 400">I left Ben, or perhaps his story trailed off, under the same bright lights where he was born. That night, in a miasma of debilitating drugs and fluorescence, Ben thought of his mom for the very last time. Sure, he would get fixed up, at least on the outside. But after the concussion, that last beating was all that it took, and Ben would succumb to early-onset alzheimer's, and he would never remember his mom, dad, fighting, or anything for that matter, again. </span>
-
-&nbsp;

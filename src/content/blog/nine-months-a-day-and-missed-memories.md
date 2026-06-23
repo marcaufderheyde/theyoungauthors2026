@@ -16,4 +16,3 @@ Yet, your absence has taught us to appreciate and love, the most.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>by Jules Ericson, 16, Effingham County High School, United States</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/computer-art-338124_1920.jpg"><img class="alignnone size-full wp-image-417" src="/images/2015/11/computer-art-338124_1920.jpg" alt="Nine" width="1920" height="1280" /></a></p>

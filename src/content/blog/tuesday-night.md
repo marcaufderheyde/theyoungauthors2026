@@ -42,6 +42,3 @@ alone and annoyed
 wishing it were anything but
 another breathless night.
 <p class="font_8"><em>By Kai Katyin, 16, John F. Kennedy School, Berlin, Germany</em></p>
-
-
-[caption id="attachment_450" align="alignnone" width="939"]<a href="/images/2015/11/Tuesday-Night.jpg"><img class="size-full wp-image-450" src="/images/2015/11/Tuesday-Night.jpg" alt="Colorful background" width="939" height="696" /></a> Colorful background[/caption]

@@ -21,4 +21,3 @@ He wanted the riches, which stacked up as he slew.
 
 An asshole, Columbus was an asshole.
 <p class="font_8"><em>By Paul Gracey, 17, Westerford High School, Cape Town, South Africa</em></p>
-<p class="font_8"><a href="/images/2015/11/Columbus-was-an-asshole.jpg"><img class="alignnone size-full wp-image-378" src="/images/2015/11/Columbus-was-an-asshole.jpg" alt="" width="949" height="633" /></a></p>

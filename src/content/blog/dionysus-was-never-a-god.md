@@ -20,4 +20,3 @@ YOU LOVE HIM. HE IS A PARADOX YOU CANNOT DECRYPT. YOU DO NOT WANT TO.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>by Sara Zourki, 16, Werner von Siemens Gymnasium, Germany</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Dionysus-was-never-a-god.jpeg"><img class="alignnone size-full wp-image-438" src="/images/2015/11/Dionysus-was-never-a-god.jpeg" alt="Dionysus was never a god" width="939" height="1074" /></a></p>

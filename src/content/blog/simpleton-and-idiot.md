@@ -37,4 +37,3 @@ You didn't even care.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>by Paul Gracey, 17, Westerford High School, Cape Town, South Africa</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Simpleton-and-idiot.jpg"><img class="alignnone size-full wp-image-444" src="/images/2015/11/Simpleton-and-idiot.jpg" alt="Simpleton and idiot" width="939" height="586" /></a></p>

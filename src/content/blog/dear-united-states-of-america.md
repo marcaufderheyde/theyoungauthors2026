@@ -18,7 +18,3 @@ And dear United States of America, since when did your nation have to choose bet
 Dear United States of America, there is a lot more that I could ask and say. I have said a lot. Others too. I know many others who care about you as much as I do. I am a part of you. I was born here. But, dear America, I have seen you from the sidelines. I had been away from you for quite some time. I do not exactly see things the same way others who have been with you longer do. I hope you understand that. The world is not blind to you and what you do, dear America. Everyone is watching. I hope you remember that.
 
 Sincerely, Christian
-
-&nbsp;
-
-<img class="wp-image-855 alignleft" src="/images/2016/07/YDLjDII-300x154.png" alt="YDLjDII" width="976" height="501" />

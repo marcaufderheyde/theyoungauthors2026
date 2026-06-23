@@ -33,7 +33,3 @@ Whether we walk apart, or fly close like birds,
 I need to know. I need to know now.
 
 <em>by anonymous</em>
-
-&nbsp;
-
-<img class="alignnone size-full wp-image-757" src="/images/2016/04/135-heart-on-fire.jpg" alt="135-heart-on-fire" width="3264" height="2448" />

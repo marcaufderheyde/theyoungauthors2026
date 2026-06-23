@@ -14,4 +14,3 @@ I sit on the hill. I've done it several times before, I'm aware, but I can never
 
 One time in particular, she stayed. We met eyes once. I smiled, but she did not return the heartwarming notion. I looked away, my cheeks flushed red. I would have another chance. I would return to the hill, and, whoever she was the next time, I'd try again.
 <p class="font_8"><em>by Christian Gann, 16, Seuol American High School, South Korea</em></p>
-<p class="font_8"><a href="/images/2015/11/Another-Chance.jpg"><img class="alignnone size-full wp-image-300" src="/images/2015/11/Another-Chance.jpg" alt="Another Chance" width="939" height="625" /></a></p>

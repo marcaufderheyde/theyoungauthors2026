@@ -26,7 +26,3 @@ I think, it might have even smiled at me.
 &nbsp;
 
 <em>By Diana Parsons, 17, Anna-Seghers-School, Germany</em>
-
-&nbsp;
-
-<a href="/images/2015/11/The-misplaced-flower.jpg"><img class="alignnone size-full wp-image-409" src="/images/2015/11/The-misplaced-flower.jpg" alt="The misplaced flower" width="432" height="493" /></a>

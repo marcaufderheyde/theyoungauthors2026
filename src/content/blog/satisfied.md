@@ -32,4 +32,3 @@ as long as I’ll be dreaming.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>by Dolores Nabokov, 17, Australia</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Satisifed.jpg"><img class="alignnone size-full wp-image-186" src="/images/2015/11/Satisifed.jpg" alt="Satisifed" width="970" height="587" /></a></p>

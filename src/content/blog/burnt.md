@@ -27,4 +27,3 @@ I live in the apocalypse.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>by Kai Katyin, 15, John F. Kennedy School, Berlin, Germany</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Burnt.jpg"><img class="alignnone size-full wp-image-340" src="/images/2015/11/Burnt.jpg" alt="Burnt" width="948" height="1270" /></a></p>

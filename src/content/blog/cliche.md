@@ -34,4 +34,3 @@ Those seconds climbing, running on
 spontaneous fools,
 victim to sun.
 <p class="font_8"><em>By Allison Stray, 16, International School Morocco, Morocco</em></p>
-<p class="font_8"><a href="/images/2015/11/Cliché.jpg"><img class="alignnone size-full wp-image-423" src="/images/2015/11/Cliché.jpg" alt="Cliché" width="939" height="628" /></a></p>

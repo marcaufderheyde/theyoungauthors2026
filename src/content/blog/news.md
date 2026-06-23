@@ -1,10 +1,21 @@
 ---
 title: "News"
-date: "2015-09-21 16:04:56"
+date: "2026-06-23 12:00:00"
 author: "admin"
 cover_image: ""
 type: "page"
 ---
+<h1>Update 6, 23.06.2026: The Young Authors is now a Static Archive!</h1>
+<ul>
+    <li>Big news today! After more than a decade of receiving amazing stories, poems, and essays from young authors all over the world, we have officially transformed the site into a blazing-fast, zero-maintenance static archive.</li>
+    <li>What does this mean? It means all of your past submissions and the incredible community history are preserved forever on a modern Jamstack platform. The site will load faster than ever, and the content will never be lost to old database crashes!</li>
+    <li>However, this also means we are <strong>no longer accepting new submissions</strong>. It has been an incredible journey, and we want to thank every single writer who shared their creativity and passion with us over the years.</li>
+    <li>Please continue to read, explore, and enjoy the vast library of young talent we've collected here. Keep writing, keep dreaming, and stay inspired!</li>
+</ul>
+<em>- Marc Auf der Heyde, signing out. </em>
+
+<hr />
+
 <h1>Update 5, 04.02.2022: New year, new theyoungauthors?</h1>
 <ul>
  	<li>Hello there stranger, long time no see! In fact, crazy you remember this old place at all, but happy days, welcome home! Come have a read of something, come have a write!</li>
@@ -12,7 +23,7 @@ type: "page"
  	<li>All in all, if you find yourself here, reach out to me! You got some ideas you want to spring into action? I'll listen at the very least! :)</li>
  	<li>Last but not least, stay safe and stay sane out there! Tricky place us humans have decided to inhabit, be kind to each other!</li>
 </ul>
-<em>- Marc Auf der Heyde, signing out. </em>
+<em>- Marc Auf der Heyde, signing out. </em>
 
 <hr />
 
@@ -22,7 +33,7 @@ type: "page"
  	<li>It's been a crazy couple of years. WRITE ABOUT IT!! Want to express those weird feelings you're having, are you sick and tired of isolation? WRITE ABOUT IT!!</li>
  	<li>And when you've written it, post it here :) Someone will read it!</li>
 </ul>
-<em>- Marc Auf der Heyde, signing out. </em>
+<em>- Marc Auf der Heyde, signing out. </em>
 
 <hr />
 
@@ -32,9 +43,7 @@ type: "page"
  	<li>Please give credit where credit is due as some of our artwork is made by users on this site. It's still royalty free, but a lot of effort goes into their creation, so that should not go unnoticed.</li>
  	<li>Go check it out now!</li>
 </ul>
-<em>- Marc Auf der Heyde, signing out. </em>
-
-[do_widget id=ls_button_widget-3]
+<em>- Marc Auf der Heyde, signing out. </em>
 
 <hr />
 
@@ -67,7 +76,7 @@ type: "page"
  	<li>Take theyoungauthors to the blockchain.</li>
  	<li>Publish the first theyoungauthors works.</li>
 </ol>
-<em>- Marc Auf der Heyde, signing out. </em>
+<em>- Marc Auf der Heyde, signing out. </em>
 
 <hr />
 
@@ -80,9 +89,4 @@ type: "page"
  	<li style="text-align: left;">We hereby hope to give our writers a better chance of gaining a user base and being discovered and are excited to see it in action! Try it out now, don't be afraid of something new!</li>
  	<li style="text-align: left;">The Random Submission feature is accessible from the top-left corner of every page in the top bar, and in the drop down menu of submissions.</li>
 </ul>
-<em>- Marc Auf der Heyde, signing out. </em>
-
-[do_widget id=ls_button_widget-2]
-
-<hr />
-<p style="text-align: center;">[do_widget id=do-etfw-2]</p>
+<em>- Marc Auf der Heyde, signing out. </em>

@@ -35,4 +35,3 @@ Or signatures.
 It’s bad.
 Let me sleep.
 <p class="font_8"><em>by Ésme Manuel, 16, St. Stephen's High School, Italy</em></p>
-<p class="font_8"><a href="/images/2015/11/In-memorian.jpg"><img class="alignnone size-full wp-image-189" src="/images/2015/11/In-memorian.jpg" alt="In memorian" width="939" height="657" /></a></p>

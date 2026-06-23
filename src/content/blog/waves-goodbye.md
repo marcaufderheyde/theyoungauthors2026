@@ -33,4 +33,3 @@ I’m sorry it wasn’t me that saved you.
 And waving to the fully equipped life-boat you’re speeding away in,
 I realize you’ve left me your ocean.</p>
 <p class="font_9"><em>by Lilian Kelley, 16, John F. Kennedy School, Berlin, Germany</em></p>
-<p class="font_9"><a href="/images/2015/11/Waves-Goodbye.jpg"><img class="alignnone size-full wp-image-521" src="/images/2015/11/Waves-Goodbye.jpg" alt="Waves Goodbye" width="949" height="632" /></a></p>

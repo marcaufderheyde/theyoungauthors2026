@@ -21,6 +21,6 @@ it lives.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>by Jack Allen, 18, Boherbue Comprehensive, Ireland</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/The-Seed.jpg"><img class="alignnone size-full wp-image-282" src="/images/2015/11/The-Seed.jpg" alt="The Seed" width="920" height="611" /></a></p>
+
 <p class="font_8"></p>
 <p class="font_8"></p>

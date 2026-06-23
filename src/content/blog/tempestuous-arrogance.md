@@ -9,4 +9,3 @@ type: "post"
 <p class="font_8"></p>
 <p class="font_8"><em>by Svenia Ratheiser, German International School, Cape Town South Africa</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/arrogance.jpg"><img class="alignnone size-full wp-image-125" src="/images/2015/11/arrogance.jpg" alt="arrogance" width="300" height="200" /></a></p>

@@ -58,7 +58,3 @@ The precumming virgin.
 &nbsp;
 
 <em>by anonymous</em>
-
-&nbsp;
-
-<img class="alignnone size-full wp-image-867" src="/images/2016/07/Netflix.jpg" alt="Netflix" width="1024" height="683" />

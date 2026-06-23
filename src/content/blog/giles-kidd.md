@@ -44,4 +44,3 @@ Of blue in which he'd drown,
 He's sad no longer and his words are stronger,
 For his best friend is Alice Crown.
 <p class="font_8"><em>by Christian Gann, 16, Seoul American High School, Seoul, South Korea</em></p>
-<p class="font_8"><a href="/images/2015/11/Giles-Kidd.jpg"><img class="alignnone size-full wp-image-498" src="/images/2015/11/Giles-Kidd.jpg" alt="Giles Kidd" width="938" height="624" /></a></p>

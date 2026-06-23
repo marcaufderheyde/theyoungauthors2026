@@ -29,4 +29,3 @@ As a KISS for the first time.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>by Ryan Smith, 15, John F. Kennedy School, Berlin ,Germany</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Love.jpg"><img class="alignnone size-full wp-image-405" src="/images/2015/11/Love.jpg" alt="Love" width="939" height="592" /></a></p>

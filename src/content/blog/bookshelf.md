@@ -25,7 +25,3 @@ Has left me (the happy girl!) feeling so lonely on this shelf.
 &nbsp;
 
 <em>by Elizabeth Meehan, 18, Wimslow High School, United Kingdom</em>
-
-&nbsp;
-
-<img class="alignnone size-full wp-image-860" src="/images/2016/07/971px-Giuseppe_Maria_Crespi_-_Buchregal_mit_Musikschriften_1725-30.jpeg" alt="Bookshelf" width="971" height="1024" />

@@ -24,4 +24,3 @@ So just listen, don't place a bet</p>
 <p class="font_8"></p>
 <p class="font_8"><em>by Charl Moller, 17, Hoerskool Jan Van Riebeeck, South Africa</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Journey.jpg"><img class="alignnone size-full wp-image-297" src="/images/2015/11/Journey.jpg" alt="Journey" width="938" height="1252" /></a></p>

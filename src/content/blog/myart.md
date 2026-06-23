@@ -11,6 +11,4 @@ type: "post"
 <p style="text-align: justify;">It frightens me. I starve for recognition that I do not yet deserve. I will not be able to bear it when my stomach will actually growl for food I cannot buy. I will wither away and the passive silence I maintained to endure an empty life, an empty art that would otherwise have color with a green that only flows when the audience loves it with you, will forever seal my mouth and my fate.</p>
 &nbsp;
 
-<img class="alignnone size-full wp-image-679" src="/images/2016/04/Bookworm.jpg" alt="Bookworm" width="3888" height="2592" />
 
-&nbsp;

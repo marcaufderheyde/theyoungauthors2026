@@ -17,6 +17,3 @@ type: "post"
 <p class="font_9"></p>
 <p class="font_9"><em>By Oscar Gaitskill, 17, London, UK</em></p>
 <p class="font_9"></p>
-
-
-[caption id="attachment_492" align="alignnone" width="620"]<a href="/images/2015/11/Can-people-be-illegal.jpg"><img class="size-full wp-image-492" src="/images/2015/11/Can-people-be-illegal.jpg" alt="A distressed vessel discovered by the US Navy (USN) Oliver Hazard Perry Class Guided Missile Frigate USS RENTZ (FFG 46) 300 miles from shore with 90 people on board, including women and children.  The RENTZ provided assistance and took the Ecuadorian citizens to Guatemala, from where they would be repatriated. (SUBSTANDARD)" width="620" height="413" /></a> A distressed vessel discovered by the US Navy (USN) Oliver Hazard Perry Class Guided Missile Frigate USS RENTZ (FFG 46) 300 miles from shore with 90 people on board, including women and children. The RENTZ provided assistance and took the Ecuadorian citizens to Guatemala, from where they would be repatriated. (SUBSTANDARD)[/caption]

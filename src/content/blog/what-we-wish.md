@@ -32,4 +32,3 @@ painting pictures so that I can help them too.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>Janeke v/d Eijnde, 16, Swartland Highschool, South Africa</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/What-we-wish.jpg"><img class="alignnone size-full wp-image-337" src="/images/2015/11/What-we-wish.jpg" alt="What we wish" width="939" height="903" /></a></p>

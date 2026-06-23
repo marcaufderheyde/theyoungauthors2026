@@ -32,4 +32,3 @@ My love I'm no longer sending</p>
 <p class="font_8"></p>
 <p class="font_8"><em>By Wesley Jade, 23, South Africa</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Theres-a-Coldness-on-My-Chest.jpg"><img class="alignnone size-full wp-image-429" src="/images/2015/11/Theres-a-Coldness-on-My-Chest.jpg" alt="There's a Coldness on My Chest" width="949" height="683" /></a></p>

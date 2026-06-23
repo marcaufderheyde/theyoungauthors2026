@@ -24,7 +24,3 @@ I know this.
 &nbsp;
 
 <em>by Emily Stewart, 17, MHSG, U.K</em>
-
-&nbsp;
-
-<img class="alignnone size-full wp-image-911" src="/images/2016/10/4254867826_0f9f516058_b.jpg" alt="Envy" width="1024" height="577" />

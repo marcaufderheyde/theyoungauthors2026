@@ -30,6 +30,3 @@ I don't even know what real is.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>Ian Materla, 15, John F. Kennedy School, Berlin, Germany</em></p>
 <p class="font_8"></p>
-
-
-[caption id="attachment_128" align="alignnone" width="300"]<a href="/images/2015/11/Chameleon.jpg"><img class="size-full wp-image-128" src="/images/2015/11/Chameleon.jpg" alt="Nice colorful male panthera chameleon lizard" width="300" height="201" /></a> Nice colorful male panthera chameleon lizard[/caption]

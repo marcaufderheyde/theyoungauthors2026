@@ -41,4 +41,3 @@ She waited...silence.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>Stefuse Olsson, 15, Berlin British School, Germany</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/School-Days.jpg"><img class="alignnone size-full wp-image-321" src="/images/2015/11/School-Days.jpg" alt="School Days" width="939" height="373" /></a></p>

@@ -136,7 +136,3 @@ Pray for the world while some still play fair.
 &nbsp;
 
 <em>By Marc Auf der Heyde, 17, John. F. Kennedy. School, Berlin, Germany</em>
-
-&nbsp;
-
-<a href="/images/2015/11/landscape-1447538826-peace-for-paris-icon.jpg"><img class="size-full wp-image-551 aligncenter" src="/images/2015/11/landscape-1447538826-peace-for-paris-icon.jpg" alt="paris peace" width="980" height="490" /></a>

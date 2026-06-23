@@ -28,4 +28,3 @@ type: "post"
 <p class="font_8">Inhabited by permanent cowards</p>
 <p class="font_8">Scared of reality.</p>
 <p class="font_8"><em>by Penelope Sars, 17, John F. Kennedy School, Berlin, Germany</em></p>
-<p class="font_8"><a href="/images/2015/11/X.jpg"><img class="alignnone size-full wp-image-399" src="/images/2015/11/X.jpg" alt="X" width="939" height="557" /></a></p>

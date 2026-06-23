@@ -29,4 +29,3 @@ Red walls.</p>
 <p class="font_9"></p>
 <p class="font_9"><em>By J. Rugger, 16,  John F. Kennedy School, Berlin, Germany</em></p>
 <p class="font_9"></p>
-<p class="font_9"><a href="/images/2015/11/Red-Walls.jpg"><img class="alignnone size-full wp-image-369" src="/images/2015/11/Red-Walls.jpg" alt="Red Walls" width="948" height="950" /></a></p>

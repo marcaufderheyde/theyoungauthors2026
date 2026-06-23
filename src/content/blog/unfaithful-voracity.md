@@ -25,4 +25,3 @@ type: "post"
 <p style="text-align: left">Its voluptuous and tasty exterior is all addictive flavor.</p>
 <p style="text-align: left">My tongue craves only a hint of what it can give me.</p>
 <p style="text-align: left">So there.</p>
-<img class="wp-image-902 alignleft" src="/images/2016/10/Heart-Alight-300x200.jpg" alt="heart-alight" width="386" height="257" />

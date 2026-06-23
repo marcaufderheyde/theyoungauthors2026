@@ -35,4 +35,3 @@ I hope so too</p>
 <p class="font_8"></p>
 <p class="font_8"><em>by Max Görlich, 16, John. F. Kennedy School, Berlin, Germany</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Doors-Open-Doors-Close.jpg"><img class="alignnone size-full wp-image-333" src="/images/2015/11/Doors-Open-Doors-Close.jpg" alt="Doors Open, Doors Close" width="939" height="704" /></a></p>

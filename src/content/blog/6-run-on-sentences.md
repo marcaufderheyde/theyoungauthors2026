@@ -15,7 +15,3 @@ type: "post"
 &nbsp;
 
 <em>By Luna Corbey, 17, Nightingale, Argentina</em>
-
-&nbsp;
-
-<img class="aligncenter" src="https://pixabay.com/static/uploads/photo/2015/12/09/18/13/art-1085200_960_720.jpg" alt="" width="950" height="720" />

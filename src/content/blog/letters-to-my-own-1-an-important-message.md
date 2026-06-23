@@ -80,6 +80,3 @@ He saved me instead.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>By Alice Crown, 17, Fort Hamilton High School, USA</em></p>
 <p class="font_8"></p>
-
-
-[caption id="attachment_517" align="alignnone" width="531"]<a href="/images/2015/11/Letters-To-My-Own-1-An-Important-Message.jpg"><img class="size-full wp-image-517" src="/images/2015/11/Letters-To-My-Own-1-An-Important-Message.jpg" alt="Book chapter on avoiding sexist language" width="531" height="333" /></a> Book chapter on avoiding sexist language[/caption]

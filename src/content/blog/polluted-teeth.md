@@ -19,4 +19,3 @@ And take away my pain,
 One cannot live without the other,
 As puddles do not exist without rain,
 <p class="font_8"><em>by Alice Crown, 16, Fort Hamilton High School, United States</em></p>
-<p class="font_8"><a href="/images/2015/11/Polluted-Teeth.jpg"><img class="alignnone size-full wp-image-504" src="/images/2015/11/Polluted-Teeth.jpg" alt="Polluted Teeth" width="946" height="553" /></a></p>

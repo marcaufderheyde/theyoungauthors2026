@@ -31,5 +31,5 @@ Before closing his eyes and sleeping the sleep of the innocent 20</p>
 <p class="font_8"></p>
 <p class="font_8"><em>By Max Görlich, 16, John F. Kennedy School, Berlin, Germany</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/2-Teeth-Grin.jpg"><img class="alignnone size-full wp-image-343" src="/images/2015/11/2-Teeth-Grin.jpg" alt="2 Teeth Grin" width="948" height="631" /></a></p>
+
 <p class="font_8"></p>

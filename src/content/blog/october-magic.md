@@ -22,4 +22,3 @@ of October days</p>
 <p class="font_8"></p>
 <p class="font_8"><em>By Diana Parsons, 17, Anna-Seghers-School, Germany</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/October-Magic.jpg"><img class="alignnone size-full wp-image-462" src="/images/2015/11/October-Magic.jpg" alt="October Magic" width="947" height="573" /></a></p>

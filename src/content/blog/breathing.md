@@ -37,4 +37,3 @@ type: "post"
 <p class="font_9"></p>
 <p class="font_9"><em><span class="color_15">by Isaiah Michalski, 17, Babelsberger Filmgymnasium, Potsdam Germany</span></em></p>
 <p class="font_9"></p>
-<p class="font_9"><a href="/images/2015/11/breathing.jpg"><img class="alignnone size-full wp-image-119" src="/images/2015/11/breathing.jpg" alt="breathing" width="300" height="200" /></a></p>

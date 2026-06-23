@@ -62,5 +62,5 @@ The devious kitty, oh what is this place?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1340} -->
-<figure class="wp-block-image"><img src="https://i1.wp.com/www.theyoungauthors.com/images/2018/08/5619954191_611ee1c86b_o.jpg?fit=1920%2C1200&amp;ssl=1" alt="" class="wp-image-1340"/><figcaption>The Devious Kitty </figcaption></figure>
+
 <!-- /wp:image -->

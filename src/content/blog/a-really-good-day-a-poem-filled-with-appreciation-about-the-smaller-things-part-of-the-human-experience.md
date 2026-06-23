@@ -32,5 +32,5 @@ A really good day – a poem filled with appreciation about the smaller things p
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1383} -->
-<figure class="wp-block-image"><img src="/images/2018/12/A-good-day.jpg" alt="" class="wp-image-1383"/></figure>
+
 <!-- /wp:image -->

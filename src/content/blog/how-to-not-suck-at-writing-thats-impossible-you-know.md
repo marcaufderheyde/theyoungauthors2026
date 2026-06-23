@@ -15,4 +15,3 @@ He gave me a funny look, and smirked. "Write a story, about a banana."</p>
 <p class="font_8"></p>
 <p class="font_8"><em>By Alice Crown, 16, Fort Hamilton High, USA</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/How-to-not-suck-at-writing-thats-impossible-you-know.jpg"><img class="alignnone size-full wp-image-381" src="/images/2015/11/How-to-not-suck-at-writing-thats-impossible-you-know.jpg" alt="How to not suck at writing (that's impossible you know)" width="366" height="550" /></a></p>

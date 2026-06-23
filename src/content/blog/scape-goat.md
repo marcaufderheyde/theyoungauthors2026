@@ -22,4 +22,3 @@ being angry is better than being sad, right?
 </p>
 <p class="font_8"><em>by Eli Goodman, 15, John F. Kennedy School, Berlin Germany</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/scape-goat.jpg"><img class="alignnone size-full wp-image-122" src="/images/2015/11/scape-goat.jpg" alt="scape goat" width="300" height="367" /></a></p>

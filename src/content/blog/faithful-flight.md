@@ -56,4 +56,3 @@ Take faithful flight.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>By Wesley Jade, 23, South Africa</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Faithful-Flight.jpg"><img class="alignnone size-full wp-image-375" src="/images/2015/11/Faithful-Flight.jpg" alt="Faithful Flight" width="939" height="461" /></a></p>

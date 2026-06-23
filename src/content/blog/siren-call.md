@@ -31,4 +31,3 @@ Of thrice times toil and meager play</p>
 <p class="font_8"></p>
 <p class="font_8"><em>by Wesley Jade, 23, South Africa</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Siren-Call.jpg"><img class="alignnone size-full wp-image-432" src="/images/2015/11/Siren-Call.jpg" alt="Siren Call" width="939" height="626" /></a></p>

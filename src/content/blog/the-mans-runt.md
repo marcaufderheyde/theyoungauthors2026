@@ -62,4 +62,3 @@ The girl saw the red bands.
 
 The gates closed behind the girl, her brother, and her mother. Her father was gone. Around the three of them were red bands and blue and white stripes. The stars were gone. The world had gone gray and the last bit of humanity the girl had seen had sifted as ash into the dust beneath her feet. Her life was gone. Everything was gone.
 <p class="font_8"><em>by Christian Gann, 16, Seoul American High School, Seoul, South Korea</em></p>
-<p class="font_8"><a href="/images/2015/11/The-Mans-Runt.jpg"><img class="alignnone size-full wp-image-501" src="/images/2015/11/The-Mans-Runt.jpg" alt="" width="937" height="624" /></a></p>

@@ -10,4 +10,3 @@ type: "post"
 <p class="font_9"></p>
 <p class="font_9"><em>by Isaiah Michalski, 16, Babelsberger Filmgymnasium, Potsdam Germany</em></p>
 <p class="font_9"></p>
-<p class="font_9"><a href="/images/2015/11/Monologue.jpg"><img class="alignnone size-full wp-image-138" src="/images/2015/11/Monologue.jpg" alt="Monologue" width="939" height="569" /></a></p>

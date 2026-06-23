@@ -98,4 +98,3 @@ The man stood up, held Mrs. Ginger’s hand for a second and kissed it, then sai
 
 He closed the door behind him, left the check on the front counter, and left the umbrella behind. The snow was getting pretty bad.
 <p class="font_9"><em>By Christian Gann, 16, Seoul American High School, Seoul, South Korea</em></p>
-<p class="font_9"><a href="/images/2015/11/Only-One-Session.jpg"><img class="alignnone size-full wp-image-372" src="/images/2015/11/Only-One-Session.jpg" alt="Only One Session" width="939" height="626" /></a></p>

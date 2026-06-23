@@ -24,9 +24,3 @@ For the life of me, I must rest. But the child must come first.
 &nbsp;
 
 I crawl inside the thorn cradle. The pricks numbed by fatigue. And I hold the child close to my chest so that it may finally fall asleep.
-
-&nbsp;
-
-&nbsp;
-
-<img class="alignnone wp-image-842" src="/images/2016/07/IMG_6609-300x200.jpg" alt="IMG_6609" width="1133" height="755" />

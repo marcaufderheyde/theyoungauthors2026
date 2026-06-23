@@ -42,6 +42,3 @@ My voice died, as my name was on the grave.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>By Nathalia Jenung, 16, American Community School of Abu Dhabi, United Arab Emirates</em></p>
 <p class="font_8"></p>
-
-
-[caption id="attachment_447" align="alignnone" width="939"]<a href="/images/2015/11/Remember-when….jpg"><img class="size-full wp-image-447" src="/images/2015/11/Remember-when….jpg" alt="Bride and groom" width="939" height="1369" /></a> Bride and groom[/caption]

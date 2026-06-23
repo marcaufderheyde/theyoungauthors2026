@@ -32,7 +32,7 @@ Fat people on planes</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1374} -->
-<figure class="wp-block-image"><img src="/images/2018/12/plane-841441_1280.jpg" alt="" class="wp-image-1374"/></figure>
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -46,7 +46,3 @@ type: "post"
 &nbsp;
 
 <em>by Marc Auf der Heyde</em>
-
-&nbsp;
-
-<img class="alignnone size-full wp-image-933" src="/images/2016/12/James_Abbot_McNeill_Whistler_012.jpg" alt="" width="2024" height="2718" />

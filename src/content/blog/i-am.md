@@ -37,7 +37,3 @@ same page.
 &nbsp;
 
 <em>by Giulia Mori, 17, Albert-Einstein Gymnasium, Berlin, Germany</em>
-
-&nbsp;
-
-<img class="alignnone size-full wp-image-813" src="/images/2016/06/book-1210150_960_720.jpg" alt="book-1210150_960_720" width="960" height="678" />

@@ -11,4 +11,3 @@ type: "post"
 <p class="font_9"></p>
 <p class="font_9"><em>​By Sam Wasserman, 17, BBS, Berlin, Germany</em></p>
 <p class="font_9"></p>
-<p class="font_9"><a href="/images/2015/11/Sang-Li-or-The-Oil-Throne.jpg"><img class="alignnone size-full wp-image-469" src="/images/2015/11/Sang-Li-or-The-Oil-Throne.jpg" alt="Sang-Li or The Oil Throne" width="470" height="250" /></a></p>

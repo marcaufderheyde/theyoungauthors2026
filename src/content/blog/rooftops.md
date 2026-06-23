@@ -80,4 +80,3 @@ I’m still waiting to jump off that roof</p>
 <p class="font_8"></p>
 <p class="font_8"><em>Polly Gallagher, 16, PVHS, United States</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Rooftops.jpg"><img class="alignnone size-full wp-image-435" src="/images/2015/11/Rooftops.jpg" alt="Rooftops" width="939" height="706" /></a></p>

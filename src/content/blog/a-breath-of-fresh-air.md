@@ -86,7 +86,3 @@ It’s time to breath in some fresh air now, it’s time to do something with yo
 For before you know it you’ll turn your head and wonder where its gone to?
 
 Time goes on, mistakes do not, stop wasting this gift, stop feeling so blue.
-
-&nbsp;
-
-[caption id="attachment_1310" align="alignnone" width="900"]<img class="size-full wp-image-1310" src="/images/2018/06/Psychedelic-Wallpaper-The-sprit-within-us.png" alt="" width="900" height="488"> Psychedelic Art by Marc Auf der Heyde[/caption]

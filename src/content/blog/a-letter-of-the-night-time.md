@@ -19,7 +19,3 @@ And as I write, I am no more closer to an answer than a stargazer is to the star
 
 Kind regards,
 The fucking universe
-
-&nbsp;
-
-<img class="alignnone size-full wp-image-864" src="/images/2016/07/Carlo_Bonavia_-_Shipwreck_in_a_Rocky_Inlet_-_Google_Art_Project.jpg" alt="Shipwreck" width="2801" height="1735" />

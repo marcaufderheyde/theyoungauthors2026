@@ -24,4 +24,3 @@ I’d want to make a someone else who could take it and follow.
 But I can’t make another world, I’m left on this one here.
 But if I had been the first one to step on its dirt, I might want to disappear.
 <p class="font_8"><em>By Christian Gann, 16, Seoul American High School, Seoul, South Korea</em></p>
-<p class="font_8"><a href="/images/2015/11/If-I-Could-Make-a-World.jpeg"><img class="alignnone size-full wp-image-363" src="/images/2015/11/If-I-Could-Make-a-World.jpeg" alt="Processed with VSCOcam with f2 preset" width="949" height="711" /></a></p>

@@ -14,4 +14,3 @@ type: "post"
 <p class="font_8"></p>
 <p class="font_8"><em>By Paul Gracey, 17, Westerford High School, Cape Town, South Africa</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Fall-into-me-please-fall-into-me.jpg"><img class="alignnone size-full wp-image-165" src="/images/2015/11/Fall-into-me-please-fall-into-me.jpg" alt="Fall into me, please fall into me" width="939" height="512" /></a></p>

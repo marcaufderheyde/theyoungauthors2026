@@ -98,4 +98,3 @@ Both exit, scene closes.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>By Max Görlich, 16, John F. Kennedy School, Berlin, Germany</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/politics.png"><img class="alignnone size-full wp-image-349" src="/images/2015/11/politics.png" alt="politics" width="2000" height="1592" /></a></p>

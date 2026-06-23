@@ -90,4 +90,3 @@ Do you know your neighbor?</p>
 <p class="font_8"></p>
 <p class="font_8"><em>by Alice Crown, 16, Seoul American High School, South Korea</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Do-you-know-your-neighbor.jpg"><img class="alignnone size-full wp-image-285" src="/images/2015/11/Do-you-know-your-neighbor.jpg" alt="stk314528rkn" width="891" height="1128" /></a></p>

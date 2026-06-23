@@ -25,7 +25,3 @@ I will think back to this time, this happiest time of the past.
 
 I have made my choice, I deem it right,
 The pain I have paid, the turmoil, a hefty price, to win a fight.
-
-&nbsp;
-
-<img class="alignnone size-full wp-image-773" src="/images/2016/05/the_bright_side_of_darkness_by_chan_art_works-d6r04y1.jpg" alt="the_bright_side_of_darkness_by_chan_art_works-d6r04y1" width="1024" height="768" />

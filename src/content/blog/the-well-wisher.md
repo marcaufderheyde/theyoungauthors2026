@@ -30,4 +30,3 @@ type: "post"
 <p class="font_8">She was frozen behind glass.</p>
 <p class="font_8">“But that was many years ago.” The old man heaved a despondent sigh and wiped a tear from his eye. “It’s nothing now.”</p>
 <p class="font_8"><em>by Christian Gann, 16, Seoul American High School, South Korea</em></p>
-<p class="font_8"><a href="/images/2015/11/The-Well-Wisher.jpg"><img class="alignnone size-full wp-image-272" src="/images/2015/11/The-Well-Wisher.jpg" alt="The Well-Wisher" width="939" height="625" /></a></p>

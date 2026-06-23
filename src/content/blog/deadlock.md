@@ -27,4 +27,3 @@ whose seeds slumber in vain</p>
 <p class="font_8"></p>
 <p class="font_8"><em>By Diana Parsons, 17, Anna-Seghers-School, Germany</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Deadlock.jpg"><img class="alignnone size-full wp-image-483" src="/images/2015/11/Deadlock.jpg" alt="Deadlock" width="704" height="1056" /></a></p>

@@ -52,4 +52,3 @@ or will you pillow out the noise?</p>
 <p class="font_8"></p>
 <p class="font_8"><em>Dolores Nabokov, 17, Australia</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Staying-Afloat.jpg"><img class="alignnone size-full wp-image-324" src="/images/2015/11/Staying-Afloat.jpg" alt="Staying Afloat" width="939" height="517" /></a></p>

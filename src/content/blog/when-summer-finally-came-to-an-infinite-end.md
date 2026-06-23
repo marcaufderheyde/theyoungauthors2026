@@ -52,7 +52,3 @@ To be continued...
 &nbsp;
 
 <em>by anonymous</em>
-
-&nbsp;
-
-<img class="alignnone size-full wp-image-872" src="/images/2016/08/Baggie_of_Assorted_Pills_1.jpg" alt="Baggie" width="2592" height="1936" />

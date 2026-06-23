@@ -24,4 +24,3 @@ Has been much warmer.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>by Maks Importado, 18, Berlin, Germany</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/For-a-dead-Cat.jpg"><img class="alignnone size-full wp-image-183" src="/images/2015/11/For-a-dead-Cat.jpg" alt="For a dead Cat" width="939" height="1242" /></a></p>

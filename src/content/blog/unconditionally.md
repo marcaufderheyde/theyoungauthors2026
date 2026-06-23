@@ -31,4 +31,3 @@ Unconditionally,</p>
 <p class="font_8"></p>
 <p class="font_8"><em>by Alice Crown, 16, Seoul American High School, South Korea</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Unconditionally.jpg"><img class="alignnone size-full wp-image-269" src="/images/2015/11/Unconditionally.jpg" alt="Unconditionally" width="909" height="847" /></a></p>

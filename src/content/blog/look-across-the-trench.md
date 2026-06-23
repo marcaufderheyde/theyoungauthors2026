@@ -76,4 +76,3 @@ And yet this child, you're only nineteen.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>by Alice Crown, 16, Seoul American High School, South Korea</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Look-Across-the-Trench.jpg"><img class="alignnone size-full wp-image-306" src="/images/2015/11/Look-Across-the-Trench.jpg" alt="Look Across the Trench" width="939" height="927" /></a></p>

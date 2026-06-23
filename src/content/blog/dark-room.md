@@ -54,4 +54,3 @@ The door ahead, the knob now visible
 My heart warm, the candles surround me
 Before death, I will leave the room
 <p class="font_8"><em>by Christian Gann, 16, Seoul American High School, South Korea</em></p>
-<p class="font_8"><a href="/images/2015/11/Dark-Room.jpg"><img class="alignnone size-full wp-image-288" src="/images/2015/11/Dark-Room.jpg" alt="Dark Room" width="891" height="1177" /></a></p>

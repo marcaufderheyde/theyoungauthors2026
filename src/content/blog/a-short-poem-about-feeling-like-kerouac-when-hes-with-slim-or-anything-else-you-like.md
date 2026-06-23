@@ -33,7 +33,3 @@ So the fresh air can enter.
 &nbsp;
 
 <em>By Sam Wasserman, 17, Babelsberger Filmgymnasium, Germany</em>
-
-&nbsp;
-
-<img class="alignnone size-full wp-image-668" src="/images/2016/04/426px-Slim_Gaillard.jpg" alt="426px-Slim_Gaillard" width="426" height="599" />

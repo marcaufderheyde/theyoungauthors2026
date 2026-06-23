@@ -5,29 +5,7 @@ author: "admin"
 cover_image: ""
 type: "page"
 ---
-<h1 class="font_2" style="text-align: center;"><span class="color_2" style="color: #000000;">Our Submissions:</span></h1>
 
-<hr />
+<p class="text-center italic text-slate-500 mb-8">Note: As of June 2026, The Young Authors is now a static archive. New submissions are no longer being accepted.</p>
 
-<h2 class="font_2" style="text-align: center;"></h2>
-<h2 class="font_2" style="text-align: center;"><span style="text-decoration: underline; color: #4c7a9c;"><a style="text-decoration: underline; color: #4c7a9c;" href="https://theyoungauthors.com/poetry/"><span class="color_2">Poetry</span></a></span></h2>
-
-<hr />
-
-<h2 class="font_2" style="text-align: center;"><span style="color: #4c7a9c;"> </span></h2>
-<h2 class="font_2" style="text-align: center;"><span style="text-decoration: underline; color: #4c7a9c;"><a style="text-decoration: underline; color: #4c7a9c;" href="https://theyoungauthors.com/short-stories/"><span class="color_2">Short Stories</span></a></span></h2>
-
-<hr />
-
-<h2 class="font_2" style="text-align: center;"><span style="color: #4c7a9c;"> </span></h2>
-<h2 class="font_2" style="text-align: center;"><span style="text-decoration: underline; color: #4c7a9c;"><a style="text-decoration: underline; color: #4c7a9c;" href="https://theyoungauthors.com/essays/"><span style="font-family: helvetica-w01-light, helvetica-w02-light, sans-serif;">Essays</span></a></span></h2>
-
-<hr />
-
-<h2 class="font_2" style="text-align: center;"><span style="color: #4c7a9c;"> </span></h2>
-<h2 class="font_2" style="text-align: center;"><span style="text-decoration: underline; color: #4c7a9c;"><a style="text-decoration: underline; color: #4c7a9c;" href="https://theyoungauthors.com/other/"><span style="font-family: helvetica-w01-light, helvetica-w02-light, sans-serif;">Other</span></a></span></h2>
-
-<hr />
-
-<h2 class="font_2" style="text-align: center;"><span style="color: #4c7a9c;"> </span></h2>
-<h2 class="font_2" style="text-align: center;"><span style="text-decoration: underline; color: #4c7a9c;"><span style="font-family: helvetica-w01-light, helvetica-w02-light, sans-serif;"><a style="text-decoration: underline; color: #4c7a9c;" href="https://theyoungauthors.com/all-submissions/">All Submissions</a></span></span></h2>
+<p class="text-center text-lg">Thank you to all the young authors who have submitted their work over the years. You can browse all past submissions on the homepage feed.</p>

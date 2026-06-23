@@ -25,4 +25,3 @@ type: "post"
 </p>
 <p class="font_8"><em>by Luna Korbey, 16, Nightingale- Bamford School, United States</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Empty-Potential.jpg"><img class="alignnone size-full wp-image-174" src="/images/2015/11/Empty-Potential.jpg" alt="Empty Potential" width="939" height="569" /></a></p>

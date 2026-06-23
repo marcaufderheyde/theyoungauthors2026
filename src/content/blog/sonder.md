@@ -12,4 +12,3 @@ Resting her head on her knees she closes her eyes, shutting out the morning that
 <p class="font_8"></p>
 <p class="font_8"><em>by Lilian Kelley, 16, John F. Kennedy School, Berlin, Germany</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Sonder.jpg"><img class="alignnone size-full wp-image-360" src="/images/2015/11/Sonder.jpg" alt="Sonder" width="939" height="704" /></a></p>

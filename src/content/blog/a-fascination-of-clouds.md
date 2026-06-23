@@ -62,4 +62,3 @@ I smile.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>Lisa Sergeev, 14, Berlin British School, Berlin, Germany</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/A-Fascination-of-Clouds.jpg"><img class="alignnone size-full wp-image-312" src="/images/2015/11/A-Fascination-of-Clouds.jpg" alt="A Fascination of Clouds" width="939" height="586" /></a></p>

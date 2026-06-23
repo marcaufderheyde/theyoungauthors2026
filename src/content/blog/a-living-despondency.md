@@ -12,4 +12,3 @@ will in themselves be a coward,</p>
 <p class="font_8"></p>
 <p class="font_8"><em>By Alice Crown, 16, Fort Hamilton High, USA</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/A-living-despondency.jpg"><img class="alignnone size-full wp-image-384" src="/images/2015/11/A-living-despondency.jpg" alt="A living despondency" width="948" height="575" /></a></p>

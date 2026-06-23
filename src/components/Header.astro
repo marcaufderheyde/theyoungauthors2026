@@ -1,32 +1,31 @@
 ---
+import { getCollection } from 'astro:content';
+
+const allContent = await getCollection('blog');
+const posts = allContent.filter(entry => entry.data.type === 'post');
+const postUrls = posts.map(p => `/${p.id}`);
 ---
 <header class="w-full flex flex-col">
   <!-- Top Bar -->
   <div class="bg-primary text-white/90 text-sm py-1.5 px-6 flex justify-between items-center shadow-inner">
-    <a href="#" class="hover:text-white transition-colors">Random Submission</a>
-    
-    <div class="relative">
-      <input 
-        type="search" 
-        placeholder="Search" 
-        class="bg-white/20 border border-white/30 text-white placeholder-white/70 rounded-sm px-3 py-0.5 pl-8 text-sm focus:outline-none focus:ring-2 focus:ring-white/50 focus:bg-white/30 transition-all w-48"
-      />
-      <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 absolute left-2.5 top-1 text-white/70" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-      </svg>
-    </div>
+    <button id="random-btn" class="hover:text-white transition-colors cursor-pointer bg-transparent border-none p-0">Random Submission</button>
   </div>
 
   <!-- Navigation -->
-  <nav class="bg-white py-5 px-6 sticky top-0 z-50 shadow-sm border-b border-slate-100">
-    <ul class="flex flex-wrap justify-center gap-x-8 gap-y-4 text-base font-medium text-slate-800">
-      <li><a href="/" class="hover:text-primary transition-colors relative after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-full after:bg-primary after:origin-center after:scale-x-0 hover:after:scale-x-100 after:transition-transform">Home</a></li>
-      <li><a href="/about-us" class="hover:text-primary transition-colors relative after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-full after:bg-primary after:origin-center after:scale-x-0 hover:after:scale-x-100 after:transition-transform">About Us</a></li>
-      <li><a href="/submissions" class="hover:text-primary transition-colors relative after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-full after:bg-primary after:origin-center after:scale-x-0 hover:after:scale-x-100 after:transition-transform">Submissions</a></li>
-      <li><a href="/news" class="hover:text-primary transition-colors relative after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-full after:bg-primary after:origin-center after:scale-x-0 hover:after:scale-x-100 after:transition-transform">News</a></li>
-      <li><a href="/sponsors" class="hover:text-primary transition-colors relative after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-full after:bg-primary after:origin-center after:scale-x-0 hover:after:scale-x-100 after:transition-transform">Sponsors</a></li>
-      <li><a href="/contact" class="hover:text-primary transition-colors relative after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-full after:bg-primary after:origin-center after:scale-x-0 hover:after:scale-x-100 after:transition-transform">Contact</a></li>
-      <li><a href="#" class="hover:text-primary transition-colors relative after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-full after:bg-primary after:origin-center after:scale-x-0 hover:after:scale-x-100 after:transition-transform">Log In</a></li>
+  <nav class="bg-white py-4 px-6 sticky top-0 z-50 shadow-sm border-b border-slate-100 flex flex-wrap justify-between items-center relative">
+    <div class="md:hidden w-full flex justify-end">
+      <button id="mobile-menu-btn" class="text-slate-800 p-2 focus:outline-none">
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+        </svg>
+      </button>
+    </div>
+    <ul id="nav-menu" class="hidden md:flex w-full md:w-auto flex-col md:flex-row flex-wrap justify-end md:ml-auto gap-x-8 gap-y-4 text-base font-medium text-slate-800 mt-4 md:mt-0 transition-all">
+      <li><a href="/" class="block hover:text-primary transition-colors relative after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-full after:bg-primary after:origin-center after:scale-x-0 hover:after:scale-x-100 after:transition-transform">Home</a></li>
+      <li><a href="/about-us" class="block hover:text-primary transition-colors relative after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-full after:bg-primary after:origin-center after:scale-x-0 hover:after:scale-x-100 after:transition-transform">About Us</a></li>
+      <li><a href="/submissions" class="block hover:text-primary transition-colors relative after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-full after:bg-primary after:origin-center after:scale-x-0 hover:after:scale-x-100 after:transition-transform">Submissions</a></li>
+      <li><a href="/news" class="block hover:text-primary transition-colors relative after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-full after:bg-primary after:origin-center after:scale-x-0 hover:after:scale-x-100 after:transition-transform">News</a></li>
+      <li><a href="/sponsors" class="block hover:text-primary transition-colors relative after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-full after:bg-primary after:origin-center after:scale-x-0 hover:after:scale-x-100 after:transition-transform">Sponsors</a></li>
     </ul>
   </nav>
 
@@ -52,3 +51,25 @@
     </div>
   </div>
 </header>
+
+<script is:inline define:vars={{ postUrls }}>
+  // Random button logic
+  const randomBtn = document.getElementById('random-btn');
+  if (randomBtn && postUrls.length > 0) {
+    randomBtn.addEventListener('click', (e) => {
+      e.preventDefault();
+      const randomIndex = Math.floor(Math.random() * postUrls.length);
+      window.location.href = postUrls[randomIndex];
+    });
+  }
+
+  // Mobile menu logic
+  const mobileBtn = document.getElementById('mobile-menu-btn');
+  const navMenu = document.getElementById('nav-menu');
+  if (mobileBtn && navMenu) {
+    mobileBtn.addEventListener('click', () => {
+      navMenu.classList.toggle('hidden');
+      navMenu.classList.toggle('flex');
+    });
+  }
+</script>

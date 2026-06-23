@@ -18,4 +18,3 @@ I appreciate it all.</p>
 <p class="font_8"><em> </em></p>
 <p class="font_8"><em>by Jules Ericson, 16, Effingham County High School, United States</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Thank-you.jpg"><img class="alignnone size-full wp-image-420" src="/images/2015/11/Thank-you.jpg" alt="Thank you" width="939" height="704" /></a></p>

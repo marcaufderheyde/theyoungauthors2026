@@ -40,5 +40,3 @@ Then, the old man picked up the plastic bag and pulled a black book out of it. T
 As he was closing the book I noticed another name. I can never be certain, but I believe it was my name. The one he had crossed out.
 
 He finished his tea and cookie, wiped off his mouth with a handkerchief, and then left, swallowed by the morning rush. I never saw him again.
-
-[caption id="attachment_885" align="alignleft" width="992"]<img class="wp-image-885 " src="/images/2016/08/Tea-Time-II-1024x683.jpg" alt="Tea Time" width="992" height="661" /> Photo by Christian Gann[/caption]

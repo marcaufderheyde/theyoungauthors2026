@@ -40,7 +40,3 @@ There is a land where most venture
 Seeking adventure
 
 Not knowing what lies ahead
-
-&nbsp;
-
-<img class="alignnone size-full wp-image-684" src="/images/2016/04/Lone.jpg" alt="Lone" width="2592" height="3888" />

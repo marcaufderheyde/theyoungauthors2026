@@ -11,4 +11,3 @@ People are strange as well. All people are aquainted with this fact. But people 
 <p class="font_8"></p>
 <p class="font_8"><em>By Alice Crown, 17, Fort Hamilton High School, United States</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Dribble-One.jpg"><img class="alignnone size-full wp-image-486" src="/images/2015/11/Dribble-One.jpg" alt="Dribble One" width="526" height="349" /></a></p>

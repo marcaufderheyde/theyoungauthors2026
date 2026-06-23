@@ -34,7 +34,3 @@ So though oblivion is bound to drown us all
 I’m fond of my small boat
 
 That perpetuates my fall
-
-&nbsp;
-
-<img class="alignnone size-full wp-image-938" src="/images/2016/12/maxresdefault-2.jpg" alt="" width="1233" height="850" />

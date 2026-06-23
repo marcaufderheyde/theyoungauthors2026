@@ -38,4 +38,3 @@ Do you?</p>
 <p class="font_8"></p>
 <p class="font_8"><em>By Alice Crown, 16, Seoul American High School, South Korea</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Do-you.jpg"><img class="alignnone size-full wp-image-294" src="/images/2015/11/Do-you.jpg" alt="Do you" width="939" height="704" /></a></p>

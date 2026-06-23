@@ -38,4 +38,3 @@ Than a killer bee sting.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>by Rayouf Alhumedhi, 14, Berlin British School, Germany</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Prejudice.jpg"><img class="alignnone size-full wp-image-278" src="/images/2015/11/Prejudice.jpg" alt="Prejudice" width="970" height="587" /></a></p>

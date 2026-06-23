@@ -15,4 +15,3 @@ type: "post"
 </div>
 </div>
 </div>
-<p class="font_8"><a href="/images/2015/11/January-Blues.jpg"><img class="alignnone size-full wp-image-180" src="/images/2015/11/January-Blues.jpg" alt="January Blues" width="719" height="719" /></a></p>

@@ -20,4 +20,3 @@ type: "post"
 <div></div>
 <div><em>by Jacqueline Lucas, John F. Kennedy School, Berlin Germany</em></div>
 <div></div>
-<div><a href="/images/2015/10/pen.jpg"><img class="alignnone wp-image-82" src="/images/2015/10/pen.jpg" alt="pen" width="506" height="337" /></a></div>

@@ -39,4 +39,3 @@ With death in ashes 25
 </p>
 <p class="font_8"><em>By Max Görlich, 16, John F. Kennedy School, Berlin, Germany</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/From-Ash-to-Ash.jpg"><img class="alignnone size-full wp-image-346" src="/images/2015/11/From-Ash-to-Ash.jpg" alt="From Ash to Ash" width="939" height="569" /></a></p>

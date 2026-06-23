@@ -27,4 +27,3 @@ The more I grow up.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>by Rocky Tess, 18, Berlin, Germany</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Black-Coffee.jpg"><img class="alignnone size-full wp-image-177" src="/images/2015/11/Black-Coffee.jpg" alt="Black Coffee" width="939" height="1242" /></a></p>

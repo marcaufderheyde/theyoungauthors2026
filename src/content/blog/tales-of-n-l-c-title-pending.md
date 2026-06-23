@@ -105,4 +105,3 @@ Oakhill was under attack it seemed. As all of the soldiers marched through tunne
 <p class="font_8"></p>
 <p class="font_8"><em>Julian Dudley, 14, Berlin British School, Berlin, Germany</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Tales-of-N.L.C-title-pending.png"><img class="alignnone size-full wp-image-315" src="/images/2015/11/Tales-of-N.L.C-title-pending.png" alt="Tales of N.L.C (title pending)" width="939" height="469" /></a></p>

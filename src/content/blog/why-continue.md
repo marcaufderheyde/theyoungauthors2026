@@ -13,4 +13,3 @@ but then there are times, when after a long day of failure after failure, my han
 <p class="font_8"></p>
 <p class="font_8"><em>By Alice Crown, 16, United States</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Why-Continue.jpg"><img class="alignnone size-full wp-image-366" src="/images/2015/11/Why-Continue.jpg" alt="Why Continue" width="948" height="593" /></a></p>

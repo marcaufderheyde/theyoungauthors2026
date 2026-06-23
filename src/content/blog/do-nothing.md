@@ -18,4 +18,3 @@ type: "post"
 <p class="font_9">“Nothing…", Sarah eyed Tom one last time before she turned to leave. "Take your shirt off.”</p>
 <p class="font_9">Tom nodded and started undressing hurriedly.</p>
 <p class="font_9"><em>By Sam Wasserman, 17, BBS, Berlin, Germany</em></p>
-<p class="font_9"><a href="/images/2015/11/Do-Nothing..jpg"><img class="alignnone size-full wp-image-479" src="/images/2015/11/Do-Nothing..jpg" alt="Do Nothing." width="939" height="625" /></a></p>

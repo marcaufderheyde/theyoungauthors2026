@@ -50,4 +50,3 @@ Help me,
 To help the world,
 And all the toppings of imagination.
 <p class="font_8"><em>by Alice Crown, 16, Seoul American High School, South Korea</em></p>
-<a href="/images/2015/11/Imagination-Topics.jpg"><img class="size-full wp-image-265" src="/images/2015/11/Imagination-Topics.jpg" alt="Landscape: summer green forest glade and night sky, vector" width="910" height="643" /></a>

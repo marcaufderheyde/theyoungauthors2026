@@ -29,4 +29,3 @@ She looked like Cece.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>By Alice Crown, 17, Fort Hamilton High School, USA</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Where-Your-Hatred-Lies.jpg"><img class="alignnone size-full wp-image-511" src="/images/2015/11/Where-Your-Hatred-Lies.jpg" alt="Where Your Hatred Lies" width="450" height="300" /></a></p>

@@ -38,7 +38,3 @@ she wanted to stay for-ever.
 
 <em>
 by Giulia Mori, 17, Albert-Einstein Gymnasium, Berlin, Germany</em>
-
-&nbsp;
-
-<img class="alignnone size-full wp-image-816" src="/images/2016/06/the_torture_and_pain__by_runio.jpg" alt="the_torture_and_pain__by_runio" width="800" height="600" />

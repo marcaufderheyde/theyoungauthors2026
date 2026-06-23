@@ -23,4 +23,3 @@ Her therapist at the desk was at a loss for words.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>by Alice Crown, 16, Seoul American High School, South Korea</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Selfish-Basket.jpg"><img class="alignnone size-full wp-image-330" src="/images/2015/11/Selfish-Basket.jpg" alt="Selfish Basket" width="882" height="662" /></a></p>

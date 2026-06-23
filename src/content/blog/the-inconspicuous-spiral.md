@@ -38,4 +38,3 @@ type: "post"
 <p class="font_8">Those who stare into the abyss of their goal,</p>
 <p class="font_8">Are the first ones to wither and tarnish their soul.</p>
 <p class="font_8"><em>by Marc Auf der Heyde, 17, John F Kennedy School, Berlin Germany</em></p>
-<p class="font_8"><a href="/images/2015/11/spiral.jpg"><img class="alignnone size-full wp-image-116" src="/images/2015/11/spiral.jpg" alt="spiral" width="300" height="387" /></a></p>

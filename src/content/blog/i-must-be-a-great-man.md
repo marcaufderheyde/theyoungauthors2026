@@ -19,4 +19,3 @@ type: "post"
 <p class="font_8"></p>
 <p class="font_8"><em>Sam Wasserman, 16, Babelsberger Filmgymnasium, Berlin, Germany</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/I-must-be-a-great-man.jpg"><img class="alignnone size-full wp-image-318" src="/images/2015/11/I-must-be-a-great-man.jpg" alt="I must be a great man" width="939" height="625" /></a></p>

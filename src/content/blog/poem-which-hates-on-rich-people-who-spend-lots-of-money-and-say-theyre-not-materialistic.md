@@ -24,4 +24,3 @@ type: "post"
 <p class="font_8"></p>
 <p class="font_8"><em>by Paul Gracey, 17, Westerford High School, Cape Town, South Africa</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Poem-which-hates-on-rich-people-who-spend-lots-of-money-and-say-they’re-not-materialistic.jpg"><img class="alignnone size-full wp-image-459" src="/images/2015/11/Poem-which-hates-on-rich-people-who-spend-lots-of-money-and-say-they’re-not-materialistic.jpg" alt="Poem which hates on rich people, who spend lots of money and say they’re not materialistic" width="939" height="621" /></a></p>

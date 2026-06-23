@@ -25,4 +25,3 @@ type: "post"
 <p class="font_8"></p>
 <p class="font_8"><em>by Datin Waters, 14, Notre-Dame International High School, Paris, France</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Cogs-in-one-machine.png"><img class="alignnone size-full wp-image-456" src="/images/2015/11/Cogs-in-one-machine.png" alt="Cogs in one machine" width="939" height="979" /></a></p>

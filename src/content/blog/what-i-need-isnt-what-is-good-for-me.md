@@ -20,4 +20,3 @@ My mind becomes a mess of pain,
 <p class="font_8"></p>
 <p class="font_8"><em>By Alice Crown, 17, Fort Hamilton High School, United States of America</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/What-I-need-isnt-what-is-good-for-me.png"><img class="alignnone size-full wp-image-489" src="/images/2015/11/What-I-need-isnt-what-is-good-for-me.png" alt="What I need isn't what is good for me" width="939" height="939" /></a></p>

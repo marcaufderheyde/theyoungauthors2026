@@ -39,4 +39,3 @@ And their hearts will shatter at a shove.
 But, in a day, it can take but one to mend them,
 Simply with an act of love.
 <p class="font_8"><em>by Christian Gann, 16, Seoul American High School, Seoul, South Korea</em></p>
-<p class="font_8"><a href="/images/2015/11/In-a-Day.jpg"><img class="alignnone size-full wp-image-402" src="/images/2015/11/In-a-Day.jpg" alt="In a Day" width="938" height="626" /></a></p>

@@ -16,4 +16,3 @@ The next three days passed as in a dream and before I knew it, we were back at t
 <p class="font_8"></p>
 <p class="font_8"><em>by Ryan Smith, 15, John F. Kennedy School, Berlin, Germany</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Sailing.jpg"><img class="alignnone size-full wp-image-441" src="/images/2015/11/Sailing.jpg" alt="Sailing" width="939" height="625" /></a></p>

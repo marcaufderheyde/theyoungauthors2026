@@ -22,4 +22,3 @@ type: "post"
 <p class="font_8">You want it to last, you want it to stop,</p>
 <p class="font_8">But whose heart will, end up in aches?</p>
 <p class="font_8">by Marc auf der Heyde, 17, John F Kennedy School, Berlin, Germany</p>
-<p class="font_8"><img class="alignnone wp-image-89" src="/images/2015/10/Back-and-forth-the-lips-of-starling.jpg" alt="Back and forth the lips of starling" width="375" height="249" /></p>

@@ -52,4 +52,3 @@ Entrapping you like that.</p>
 <p class="font_8"></p>
 <p class="font_8"><em>by Esmé Manuel, 16, St. Stephen's High School, Italy</em></p>
 <p class="font_8"></p>
-<p class="font_8"><a href="/images/2015/11/Dragon.jpg"><img class="alignnone size-full wp-image-303" src="/images/2015/11/Dragon.jpg" alt="Dragon" width="939" height="939" /></a></p>

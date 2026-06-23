@@ -33,4 +33,3 @@ But remember: I chose you that day.</p>
 <p class="font_9"></p>
 <p class="font_9"><em>by Jane Waters, 19, Berlin Germany</em></p>
 <p class="font_9"></p>
-<p class="font_9"><a href="/images/2015/11/If-I-could-choose.jpg"><img class="alignnone size-full wp-image-168" src="/images/2015/11/If-I-could-choose.jpg" alt="If I could choose" width="939" height="1065" /></a></p>

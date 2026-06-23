@@ -17,4 +17,3 @@ type: "post"
 <p class="font_9"></p>
 <p class="font_9"><em>By Sam Wasserman, 17, BBS, Berlin, Germany</em></p>
 <p class="font_9"></p>
-<p class="font_9"><a href="/images/2015/11/The-Traveler.jpg"><img class="alignnone size-full wp-image-472" src="/images/2015/11/The-Traveler.jpg" alt="The Traveler" width="479" height="479" /></a></p>

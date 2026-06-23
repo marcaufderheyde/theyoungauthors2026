@@ -13,4 +13,3 @@ type: "post"
 <p style="text-align: left;">            But this too ends… When a new dream is personified, and an angel sails aboard a Viking ship to liberate you from your unpleasant pains. You learn to smile again and you learn to love again. To love her whoever she may be, to love the reality that is your life. Love it all while you still can, love it all, and never lose hope. For when your reality is better than your dreams, that’s when you can’t fall asleep any longer, because that’s when you know that you’re in love.</p>
 <p style="text-align: left;"></p>
 <p style="text-align: left;"></p>
-<p style="text-align: left;"><img class="wp-image-793 aligncenter" src="/images/2016/06/medications-cure-tablets-pharmacy-56612.jpeg" alt="medications-cure-tablets-pharmacy-56612" width="1781" height="1187" /></p>
